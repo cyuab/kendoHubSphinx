@@ -9,9 +9,16 @@ Welcome to kendoHub's documentation!
 Channel:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    
    channel/theKendoShow 
+   
+HKUST:
+
+.. toctree::
+   :maxdepth: 2
+   
+   hkust/practice 
 
 
 
