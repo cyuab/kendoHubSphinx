@@ -6,6 +6,11 @@
 Welcome to kendoHub's documentation!
 ====================================
 
+Website: 
+	| kendo.readthedocs.io
+	| kendo.rtfd.io
+
+
 Channel:
 
 .. toctree::
