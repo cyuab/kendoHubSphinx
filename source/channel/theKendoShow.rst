@@ -18,7 +18,7 @@ Besides, there is an interesting advertisement in the middle of the video.
 
 *basic:*
 
-1. Start at the far distance (i.e. toma), which is a good distance. It uses the suriashi footwork to approach the opponent. The left foot palm should not raise too much.
+1. Start at the far distance (i.e. toma), which is a good distance. Use the suriashi footwork to approach your opponent. The left foot palm should not raise too much.
 
 2. Kiai
 
@@ -38,14 +38,14 @@ They use suriashi and wood sword to practise striking men.
 In details, launching right leg while raising shinai.
 Then, drawing left leg while dropping shinai.
 
-The girl at 04:51 seem doing men in a different way. Her upper arm drops first. Then the lower arm drops.
+The girl at 04:51 seems doing men in a different way. Her upper arm drops first. Then the lower arm drops.
 
 The kirakashi is different from what I have learnt. The left hand is not in the middle.
 
 At 05:26, the RHS uses the shinai pointing to his right to defence.
 Then hits men from his inner side.
 After that, it seems that he hits the kote from his outer side.
-Then he launches right leg (left leg has not been moved) and hits men from his outer side.
+Then he launches the right leg (left leg has not been moved) and hits men from his outer side.
 
 *immediate:*
 
@@ -65,19 +65,19 @@ The 3rd and 4th men are same as the 2nd men.
 
 2. From the far distance, step in.
 
-3. As we leap forward, instead of bringing the shinai over head. Pushing from left leg, leap forward and strike with small action without making a huge swing.
+3. As we leap forward, instead of bring the shinai over head, push from left leg, leap forward and strike with small action without making a huge swing.
 
-4. Raise the shinai so that the tip is above your opponent' head. Be aware that the shinai should not point backward. Must stay forward as shown in 09:51.
+4. Raise the shinai so that the tip is above your opponent's head. Be aware that the shinai should not point backward. Must stay forward as shown at 09:51.
 
 5. As in the large version, we still need to cut to the chin in order to make nice solid strike. When we cut, we time the hands and feet together.
 
-6. Carrying your body weight with your feet
+6. Carrying your body weight with your feet.
 
-7. Moving the feet before hand
+7. Moving the feet before hand.
 
-8. Small does not mean fast
+8. Small does not mean fast.
 
-9. The most important is "all together is one"
+9. The most important is "all together is one".
 
 Then, in the demonstration.
 
@@ -86,7 +86,7 @@ The 1st and 2 nd men:
 Approach and stand still and does not "drawing left leg to swing the shinai".
 The 3th and 4th seems to use  "drawing left leg to swing the shinai".
 
-*P.S.*
+*P.S.:*
 
 In the comments, someone mentions other kendo channels namely "ItohisaTakano's", "Let'sKendo's channels" and "ZNKR 
 ".

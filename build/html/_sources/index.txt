@@ -5,6 +5,31 @@
 
 Welcome to kendoHub's documentation!
 ====================================
+Last updated: 27-09-2016
+
+This website is created by Coleman Yu. I hope you can find it useful. If there are any problems, please contact me thru 
+cyuab <AT> connect.ust.hk
+
+Website addresses: 
+	| kendo.readthedocs.io
+	| kendo.rtfd.io
+	
+Shikake:
+
+.. toctree::
+   :maxdepth: 1
+   
+   shikake/mixedTeachingVideo 
+   
+Oji:
+
+.. toctree::
+   :maxdepth: 1
+   
+   oji/mixedTeachingVideo 
+	
+Concept:	
+
 
 Channel:
 
@@ -16,7 +41,7 @@ Channel:
 HKUST:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    
    hkust/practice 
 
