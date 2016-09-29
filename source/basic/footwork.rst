@@ -57,7 +57,6 @@ Video
 
 #. big approach and short stamping.
 
-There are several videos in the website.
 
 教此孩子的三段VIDEO很正確
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -68,7 +67,7 @@ For the second video, it is same as what sumi sensai covered in the first video.
 
 For the third video, the left leg of this child seems not that straight.
 
-This post is not complete
+This post is not completed.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 

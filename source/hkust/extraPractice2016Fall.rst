@@ -41,13 +41,13 @@ Another 3 senior members, namely Nero, Star and Ryan will come to help.
 	
 #. The *basic* men cut in reference (1).
 
-	| Please read reference (1) but only focus on the *basic* part.
 	| It is our target of this month.
 	
 Reference
 ---------------
 (1)  
 :ref:`kendoShow-basicCutting`.
+	| only focus on the *basic* part.
 
 29-9-2016 (Thur), 0500pm-0600pm HKUST LG3003, 0600pm-0700pm HKUST LG 4204
 ==========================================================================
@@ -84,21 +84,23 @@ First, recall what we have done in the last extra practice and yesterday regular
 **Reminder of the last regular practice.**
 
 #. Different between the sliding men taught by Ken senpai and the "The *basic* men cut in reference (1)" in last extra practice.
-#. When we hold the shini, the left arm should have little bit bend.
+#. When we hold the shini, the left arm should have a little bit bend.
 
 **The followings are the content of this extra practice.**
 
-#. We will revise the material of the last extra practice and the last regular practice.
+#. We will revise the materials of the last extra practice and the last regular practice.
 
-#. We will introduce the inner side and outer side of the shinai. More in Reference (1)
+#. We will introduce the inner side and outer side of the shinai. More in Reference (1).
 
-#. We will practice the footwork. More in Reference (2)
+#. We will practice the footwork. More in Reference (2).
 
 Reference
 ---------------
 (1)  
+:ref:`paulShin-omoteVSura`.
+
+(2)  
 :ref:`footwork-sumi`.
 	| The section "最清楚教習方法 (珍貴影像)"
 
-(2)  
-:ref:`paulShin-omoteVSura`.
+
