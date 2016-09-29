@@ -5,14 +5,31 @@
 
 Welcome to kendoHub's documentation!
 ====================================
-Last updated: 27-09-2016
+Last updated: 29-09-2016
 
 This website is created by Coleman Yu. I hope you can find it useful. If there are any problems, please contact me thru 
-cyuab <AT> connect.ust.hk
+cyuab <AT> connect.ust.hk.
 
 Website addresses: 
-	| kendo.readthedocs.io
-	| kendo.rtfd.io
+	| http://kendo.readthedocs.io
+	| http://kendo.rtfd.io
+	
+Contents
+-------------------------------
+
+.. toctree::
+   :maxdepth: 1
+   
+   preface
+   
+Basic:
+
+.. toctree::
+   :maxdepth: 1
+   
+   basic/kiai
+   basic/footwork
+   basic/suburi
 	
 Shikake:
 
@@ -27,8 +44,9 @@ Oji:
    :maxdepth: 1
    
    oji/mixedTeachingVideo 
+   
+Seme:
 	
-Concept:	
 
 
 Channel:
@@ -37,13 +55,23 @@ Channel:
    :maxdepth: 1
    
    channel/theKendoShow 
+   channel/paulShin
    
-HKUST:
+Vajra Club and HKUST Kendo Club:
 
 .. toctree::
    :maxdepth: 1
    
-   hkust/practice 
+   hkust/extraPractice2016Fall 
+   hkust/vajra
+
+Others:
+
+.. toctree::
+   :maxdepth: 1
+   
+   others/hongKongNews
+   others/overseaNews
 
 
 
