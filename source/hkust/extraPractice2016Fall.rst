@@ -49,13 +49,19 @@ Reference
 :ref:`kendoShow-basicCutting`.
 	| only focus on the *basic* part.
 
-29-9-2016 (Thur), 0500pm-0600pm HKUST LG3003, 0600pm-0700pm HKUST LG 4204
+29-9-2016 (Thur), 0500pm-0600pm HKUST outside LG 4204, 0600pm-0700pm HKUST LG 4204
 ==========================================================================
 It is the second extra practice in this semester. There should be about 10 freshmen joining this practice.
 We cannot book the LG4204 for 2 hours because we submit the booking application late.
 
 Hence, we will meet outside at the LG4204. Then, we will go to LG3003 for practising the footwork.
-Then, we will move back to LG 4204.
+
+.. raw:: html
+
+    <font color="red">(Today, we have not booked the LG3003. It is because the staff said Anthony has booked the venue incorrectly by writing a wrong booking log book.)</font>
+
+Then, we will move back to LG 4204. W
+
 
 First, recall what we have done in the last extra practice and yesterday regular practice.
 
