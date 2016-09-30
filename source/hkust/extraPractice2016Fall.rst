@@ -112,9 +112,9 @@ Reference
 
 3-10-2016 (Mon), 0500pm-0600pm HKUST outside LG 4204, 0600pm-0700pm HKUST LG 4204
 ====================================================================================
-It is the third extra practice in this fall semester. It will be hold by Anthony.
+It is the 3th extra practice. It will be hold by Anthony.
 
-At this point, we already have two regular practices on 21-9-2016 (Wed) and 28-9-2016 (Wed).
+We already have two regular practices on 21-9-2016 (Wed) and 28-9-2016 (Wed).
 We also have two extra practices on 26-9-2016 (Mon) and 29-9-2016 (Thur).
 If you have missed our extra practices, you can revisit the material in this webpage.
 
@@ -125,7 +125,7 @@ If you have missed our extra practices, you can revisit the material in this web
 #. We have practised the 5-stages footwork. The 5th stage is **extremely** important. So you should always read Reference (2) (of 29-9-2016 (Thur) extra practice) for reference.
 
 #. Please remember that all the participates with different levels will practice the same thing with **slightly** different. 
-	| For example for the striking men practice, you may find that some seniors will cut from the top of the head while the juniors will cut from the back (You are not allowed to cut it small!).
+	| For example for the hitting men practice, you may find that some seniors will cut from the top of the head while the juniors will cut from the back (You are not allowed to cut it small!).
 	| It is because we need to focus on different things when we are at different stages. More in reference (1).
 	| In addition, people are different. People are good at different things. So please take your own step/progress/speed during the progress. Simply follow others is not good for you.
 
