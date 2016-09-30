@@ -15,7 +15,7 @@ Video
 
 .. raw:: html
 
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/yaoPNiWnHPs" frameborder="0" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/W2b72O6Fx-4" frameborder="0" allowfullscreen></iframe>
 	
 *1st stage*
 
@@ -67,8 +67,43 @@ For the second video, it is same as what sumi sensai covered in the first video.
 
 For the third video, the left leg of this child seems not that straight.
 
-This post is not completed.
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+並不是全懂如斯清楚去教，故差了一點。
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. raw:: html
+
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/0niYIDVizG0" frameborder="0" allowfullscreen></iframe>
+	
+#. Start at a fixed line.
+
+#. Hit the sensai's shinai.
+
+#. They jump at very relax manner as shown in 01:25.
+
+此段沒上身，美中不足。
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. raw:: html
+
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/fBkjzRRfwfI" frameborder="0" allowfullscreen></iframe>
+	
+#. Must not stamp with your heel. Must stamp with your first half of your feet.
+
+附加: 
+^^^^^^^^^
+.. raw:: html
+
+	<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F430387213774733%2Fvideos%2F719683364845115%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+#. Stand still left leg.
+
+#. raise the shinai and the after a while move the right leg.
+
+#. Strike and men strike at the same time
+
+.. raw:: html
+
+	<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F430387213774733%2Fvideos%2F836835766463207%2F&show_text=0&width=400" width="400" height="700" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
 
 
 Reference

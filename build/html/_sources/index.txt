@@ -48,7 +48,6 @@ Oji:
 Seme:
 	
 
-
 Channel:
 
 .. toctree::
@@ -56,6 +55,7 @@ Channel:
    
    channel/theKendoShow 
    channel/paulShin
+   channel/kwan
    
 Vajra Club and HKUST Kendo Club:
 
@@ -72,6 +72,8 @@ Others:
    
    others/hongKongNews
    others/overseaNews
+   others/books
+   others/links
 
 
 

@@ -5,6 +5,8 @@ Kiai
 Video
 ========
 
+.. _kiai-sumi:
+
 Sumi sensei lesson on kiai 
 ----------------------
 
