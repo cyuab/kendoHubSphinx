@@ -5,6 +5,39 @@ Footwork
 Video
 ========
 
+Tip of the Week - Fumikomi 
+--------------------------------
+
+.. raw:: html
+
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/oSp56_K1q7Y" frameborder="0" allowfullscreen></iframe>
+	
+#. 'fumikomi' = 'stomp strike'.
+
+#. Should not lift the right leg too high
+
+#. kendo is trying to move forward instead of upward.
+
+#. Imagine an plane (stealth fighter) flying in a low height to avoid the radar detection. 
+
+#. The stamping is generated from the left leg as shown in 02:47
+
+#. If you lean forward, it means you cut by the upper body and you cannot achieve Ki Ken Tai Ichi (気剣体一).
+
+**An intersting exercise**
+
+#. Your partner hold you.
+
+#. get attention to your lower body.
+
+#. Relax your upper body
+
+#. Imagine your right foot is a stealth fighter hiding the ground
+
+#. Put pressure on the left leg.
+
+#. Feel the tension on your lower abdomen 
+
 .. _footwork-sumi:
 
 (踏み込み) 踏込 影像研究 

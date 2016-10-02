@@ -5,7 +5,7 @@
 
 Welcome to kendoHub's documentation!
 ====================================
-Last updated: 29-09-2016
+Last updated: 1-10-2016
 
 This website is created by Coleman Yu. I hope you can find it useful. If there are any problems, please contact me thru 
 cyuab <AT> connect.ust.hk.
@@ -47,6 +47,11 @@ Oji:
    
 Seme:
 	
+.. toctree::
+   :maxdepth: 1
+   
+   seme/semeText
+   seme/semeVideo
 
 Channel:
 
@@ -64,6 +69,17 @@ Vajra Club and HKUST Kendo Club:
    
    hkust/extraPractice2016Fall 
    hkust/vajra
+   
+Equipment:
+
+.. toctree::
+   :maxdepth: 1
+   
+   equipment/shops
+   equipment/shinai
+   equipment/kendogi
+   equipment/bogu
+   equipment/dummy
 
 Others:
 
@@ -72,8 +88,12 @@ Others:
    
    others/hongKongNews
    others/overseaNews
+   others/promotion
    others/books
    others/links
+   others/culture
+   others/attitude
+   
 
 
 

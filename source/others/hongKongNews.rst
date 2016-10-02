@@ -39,11 +39,27 @@ Reference
 ^^^^^^^^^^^^^^^^^^^^^^^^
 - From rthk
 	| http://app1.rthk.org.hk/php/tvarchivecatalog/episode.php?progid=457&tvcat=2
+
+吉野家廣告
+-----------------------------------------------------
+.. raw:: html
+
+	<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fhk.yoshinoya%2Fvideos%2F10153624702388730%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+	
+Reference
+^^^^^^^^^^^^^^^^^^^^^^^^
+- Facebook post
+	| https://www.facebook.com/hk.yoshinoya/videos/10153624702388730/
+- Photo
+	| https://www.facebook.com/180329075320617/photos/a.180727351947456.39311.180329075320617/1147814135238768/?type=3&theater
 	
 Text
 ========
 
 
+【SAMSUNG第59屆體育節知多D】最講禮儀的運動：劍道練身又練心
+-----------------------------------------------------
+	| http://sportsroad.hk/archives/117018
 
 港大劍道出戰城科劍道賽    三人賽包攬冠亞軍 
 -----------------------------------------------------

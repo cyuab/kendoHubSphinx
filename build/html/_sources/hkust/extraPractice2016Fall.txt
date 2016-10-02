@@ -1,7 +1,7 @@
 ﻿******************************************************
 HKUST Kendo Club Extra Practice Schedule 2016 Fall
 ******************************************************
-Last updated: 29-09-2016
+Last updated: 1-10-2016
 
 26-9-2016 (Mon), 0600pm-0800pm HKUST LG 4204
 ===============================================
@@ -112,7 +112,11 @@ Reference
 
 3-10-2016 (Mon), 0500pm-0600pm HKUST outside LG 4204, 0600pm-0700pm HKUST LG 4204
 ====================================================================================
-It is the 3th extra practice. It will be hold by Anthony.
+It is the 3th extra practice. It will be hold by Coleman and Anthony. Ryan will also come to help.
+
+To begin with, we have announced the details of the 2016 Fall Mass Purchase.
+	| Details: https://goo.gl/forms/kmmQy6VOpfXebn3R2
+	| The mass purchase will be end at 10-10-2016.
 
 We already have two regular practices on 21-9-2016 (Wed) and 28-9-2016 (Wed).
 We also have two extra practices on 26-9-2016 (Mon) and 29-9-2016 (Thur).
@@ -122,7 +126,7 @@ If you have missed our extra practices, you can revisit the material in this web
 
 #. suriashi. We have practised this at the beginning outside the LG 4204.
 
-#. We have practised the 5-stages footwork. The 5th stage is **extremely** important. So you should always read Reference (2) (of 29-9-2016 (Thur) extra practice) for reference.
+#. We have practised the 5-stages footwork. The 5th stage is **extremely** important.
 
 #. Please remember that all the participates with different levels will practice the same thing with **slightly** different. 
 	| For example for the hitting men practice, you may find that some seniors will cut from the top of the head while the juniors will cut from the back (You are not allowed to cut it small!).
@@ -135,31 +139,32 @@ If you have missed our extra practices, you can revisit the material in this web
 
 *Outside LG 4204*
 
-#. Kamae (revision) (with shinai)
+#. Explain the relationship of  footwork and cutting
+	|  1. striking from toma is safe
+	|  2. imagine how a knife is used when you cut bread; you cannot cut by pushing down from the top.
 
-#. suriashi footwork (revision) (with shinai)
+#. Kamae (with or without shinai)(revision) 
 
-#. Fumikomi footwork (revision) (without shinai)
+#. suriashi footwork (with or without shinai)(revision)
+	| Ayumi-ashi (normal footwork but sliding)
+	| Okur-ashi (with right foot at front)
+	| Okur-ashi (with left foot at front)
+
+#. Fumikomi footwork (without shinai)(revision) 
 	| 5-stages
 	
 *Inside LG 4204*
 
-#. Fumikomi footwork (revision) (with shinai)
+#. suriashi footwork with partner (with shinai)(new)  
 
-#. suriashi+ Fumikomi (revision) (with shinai)
+#. Fumikomi footwork (with shinai)(revision) 
+	| 5-stages
+	
+#. suriashi+ Fumikomi (with shinai)(revision)
 	| suriashi is used to approach your opponent from "toma" (i.e. far distance) to the "issokuittou no maai" (i.e. the attacking distance).
 	| fumikomo is used for hitting from the "issokuittou no maai".
 
 #. Suburi (revision)
-
-#. Stationary men cut (revision)
-	| 2 row practice
-	| Extend your arms, wrist. 
-	| Relax shoulder.
-	| Do it as big as possible.
-	| The swing-down motion follows immediately the swing-up motion
-	| Relax your arms immediately after striking men
-	| More in reference (3)
 
 #. Suburi-Suburi-Man (revision)
 
@@ -169,25 +174,30 @@ If you have missed our extra practices, you can revisit the material in this web
 	| Two versions
 	| 1. Raise the shinai during sliding (taught in the extra practice). 
 	| 2. Raise the shinai first and then do the sliding (taught in the regular practice)
+
+
+#. Stationary men cut (revision)
+	| 2 row practice
+	| Extend your arms, wrist. 
+	| Relax shoulder.
+	| Do it as big as possible.
+	| The swing-down motion follows immediately the swing-up motion
+	| Relax your arms immediately after striking men
+	| More in reference (3)
 	
 #. Forward and backward men (new)
 	| Hitting the shinai of the receiver
-	
-#. Tobikomi men with an opponent holding the shinai as in reference (4) (new)
-	| Means jumping/diving to hit the men.
-	| Start at the "issokuittou no maai"
-	| Two version
-	| 1. The 5th stage of the Fumikomi footwork
-	| 2. And easier verion in reference (4)
-	
-**Our target in the October**
 
-#. Sliding Men
-	| Both the two versions.
-	| Start at a correct distance
+#. Kukan-datotsu (new)
+	| refers to striking "empty air" as opposed to actually striking a training partner.
+	| 1. kamae
+	| 2. Move your right foot forward using the power of you left foot without lifting your shinai
+	| 3. Raise ypur shinai above your head  as you bring left foot up by straightening the right leg.
+	| 4. men cut and stamp
+	| 5. okuri-ashi
+	| 6. kamae
+	| More in reference (4)
 
-#. Tobikomi men
-	| With approaching step using suriashi
 	
 **For fun**
 
@@ -212,10 +222,11 @@ Reference
 (3)
 :ref:`suburi-sueno`.
 
-(4)  
-:ref:`footwork-sumi`.
-	| The section "附加", the first video. The woman performs "Tobikomi men".
-	
+(4)
+:ref:`books-honda`.
+	| Chapter 3 Kukan-datotsu And Kihon-Uchi
+	| The book in reference (4) is an extremely good book.
+	| I think you can read it at December.
 
 (5)  
 :ref:`hkNews-hkuIcable`.
@@ -223,9 +234,19 @@ Reference
 (6)  
 :ref:`vajra-toLetThemKnow`.
 
+	
+6-10-2016 (Thur), Under Construction
+====================================================================================
 
-
-
-
-
-
+#. Tobikomi men with an opponent holding the shinai as in reference (4) (new)
+	| Tobikomi means jumping/diving to hit the men.
+	| Start at the "issokuittou no maai"
+	| Two version
+	| 1. The 5th stage of the Fumikomi footwork
+	| 2. And easier verion in reference (4)
+	
+Reference
+---------------
+(4)  
+:ref:`footwork-sumi`.
+	| The section "附加", the first video. The woman performs "Tobikomi men".

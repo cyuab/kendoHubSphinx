@@ -31,3 +31,10 @@ Kendo and Iaido Concepts: Omote vs. Ura
 #. Example of using short form in commander: kote suriage men on the omote side
 	| I use my omote side of the shinai to block his kote strike and hit his men.
  
+
+Kendo Concepts: Hikitate Geiko
+========================================================
+
+.. raw:: html
+
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/-zwXd5yZnMk" frameborder="0" allowfullscreen></iframe>
