@@ -280,8 +280,7 @@ Besides, Karen senpai and Alec may go to help.
 #. okuri-ashi (送足) with left foot at front
 	| 1 beat version, small and frequently, the normal version
 	| 2 beat version, large and slowly. 1st beat: push from your left leg. 2nd beat: pull from your right leg.
-	|
-	| Move in Reference (1).
+	
 	
 #. okuri-ashi with right foot at front
 	| Same as above
@@ -304,6 +303,7 @@ Besides, Karen senpai and Alec may go to help.
 	| 5. At this moment, the kamae position is reversed. (right leg follows left leg)
 
 #. Fumikomi-ashi practice
+	| Move in Reference (1)
 	| More in Reference (2)
 	
 
