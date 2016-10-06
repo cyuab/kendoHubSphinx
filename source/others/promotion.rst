@@ -5,6 +5,8 @@ Promotion
 Video
 ========
 
+.. _promotion-adobe:
+
 剣道 -KENDO-
 -----------------------------------------------------
 
@@ -12,7 +14,9 @@ Video
 
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/2YnqbCPFris" frameborder="0" allowfullscreen></iframe>
 
-	
+
+.. _promotion-chicago:
+
 The University of Chicago
 -----------------------------------------------------
 

@@ -5,6 +5,8 @@ Footwork
 Video
 ========
 
+.. _footwork-kendoWorld:
+
 Tip of the Week - Fumikomi 
 --------------------------------
 
@@ -123,6 +125,9 @@ For the third video, the left leg of this child seems not that straight.
 
 附加: 
 ^^^^^^^^^
+誠先生の剣道教室 1
+""""""""""""""""""""
+
 .. raw:: html
 
 	<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F430387213774733%2Fvideos%2F719683364845115%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
@@ -133,6 +138,8 @@ For the third video, the left leg of this child seems not that straight.
 
 #. Strike and men strike at the same time
 
+誠先生の剣道教室 2
+""""""""""""""""""""
 .. raw:: html
 
 	<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F430387213774733%2Fvideos%2F836835766463207%2F&show_text=0&width=400" width="400" height="700" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>

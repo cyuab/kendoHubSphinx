@@ -5,7 +5,7 @@
 
 Welcome to kendoHub's documentation!
 ====================================
-Last updated: 2-10-2016
+Last updated: 6-10-2016
 
 This website is created by Coleman Yu. I hope you can find it useful. If there are any problems, please contact me thru 
 cyuab <AT> connect.ust.hk.

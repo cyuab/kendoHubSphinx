@@ -1,11 +1,12 @@
 ﻿******************************************************
 HKUST Kendo Club Extra Practice Schedule 2016 Fall
 ******************************************************
-Last updated: 1-10-2016
+Last updated: 6-10-2016
+Maintained by; Coleman YU
 
 26-9-2016 (Mon), 0600pm-0800pm HKUST LG 4204
 ===============================================
-It is the first extra practice in this fall semester.
+Welcome, it is the first extra practice in this fall semester.
 It will be hold by 2 senior members, namely Coleman and Anthony.
 Another 3 senior members, namely Nero, Star and Ryan will come to help.
 
@@ -14,24 +15,30 @@ Another 3 senior members, namely Nero, Star and Ryan will come to help.
 #. The basic structure of shinai (It represents a Japanese sword).
 
 	| What does the rope in the top of shinai represent?
-	| 38 inch sword? 39 inch sword?
+	| 38 inch sword for ladies while 39 inch sword for gentlemen
 	
 #. Kamae
 	
 	| Like having a normal walk and just stop.
 	| Like having a wok (鑊) in the torso.
-	| One fist between the torso and the shinai. Why?
+	| One fist between the torso and the shinai. Why? It allows you to escape from your opponent's attack.
 	
-#. Distances
+#. Distances (Maai)
 
-	| Three distances
+	| Three distances as stated in reference (1).
+	|	1. Tōma (Tō-ma) — long distance
+	|	2. Issoku ittō-no-maai (Itto-ma) — one-foot-one-sword distance also called chūma — middle distance
+	| 	3. Chikama — short distance
 	
-#. Footwork
+#. Footwork (Ashi-sabaki)
 	
-	| suriashi
-	| a A4 paper between your right foot palm and the ground.
+	| suri-ashi (sliding footwork)
+	| imagine an A4 paper between your right foot palm and the ground.
 	| Left leg should never cross right leg.
 	| Weight distribution: 60 (right): 40 (left), 50 (right): 50 (left)
+	|	Someone will tell you to have 60% of weight on the right leg while 40% of weight on the left leg.
+	|	Someone will tell you to have 50% of weight on the right leg while 50% of weight on the left leg.
+	| 	In my opinion, it depends on the situation. You should try to vary the weight distribution to find out which one is better in the given circumstance.
 	
 #. Suburi
 
@@ -39,47 +46,52 @@ Another 3 senior members, namely Nero, Star and Ryan will come to help.
 	| What is it purpose?
 	| A practice: Two Suburi swing and then One stepping footwork to move forward.
 	
-#. The *basic* men cut in reference (1).
+#. The *basic* men cut in reference (2).
 
-	| It is our target of this month.
+	| It is our target in October.
+	| It is completely fine/natural that you cannot do it now.
 	
 Reference
 ---------------
-(1)  
+(1) 
+Maai
+	| https://en.wikipedia.org/wiki/Maai
+	
+(2)  
 :ref:`kendoShow-basicCutting`.
-	| only focus on the *basic* part.
+	| Please only focus on the *basic* part. Other parts are too earlier for us at this moment.
+
 
 29-9-2016 (Thur), 0500pm-0600pm HKUST outside LG 4204, 0600pm-0700pm HKUST LG 4204
 ====================================================================================
-It is the second extra practice in this semester. There should be about 10 freshmen joining this practice.
-We cannot book the LG4204 for 2 hours because we submit the booking application late.
+It is the second extra practice in this semester. 
+There should be about 10 freshmen joining this practice.
+We cannot book the LG4204 for 2 hours because we submit the application late.
 
-Hence, we will meet outside at the LG4204. Then, we will go to LG3003 for practising the footwork.
+Hence, we will meet outside at the LG4204. Then, we will go to LG3003 for practising the footwork for the first hour.
+Then, we will move back to LG 4204 for the later hour.
 
 .. raw:: html
 
     <font color="red">(Today, we have not booked the LG3003. It is because the staff said that Anthony has booked the venue incorrectly by writing a wrong booking log book. Finally, we practice footwork outside the LG 4204.)</font>
 
-Then, we will move back to LG 4204.
+First, recall what we have done in the last extra practice (26-9-2016) and yesterday regular practice (28-9-2016).
 
-
-First, recall what we have done in the last extra practice and yesterday regular practice.
-
-**Reminder of the last extra practice.**
+**Reminder/Comment of the last extra practice.**
 
 #. Kamae (The upper body part)
 	
 	| 4 things
 	| 1. The arms should be relaxed. As release (c.f. hea in Canotnese) as possible.
-	| 2. Positive slope and never negative slope of the shinai.
-	| 3. One fist between the torso and the holding
-	| 4. Center line.
+	| 2. Positive slope and never negative slope of the shinai. The actual slope depends on the height of your opponent.
+	| 3. One fist between the torso and the holding.
+	| 4. Center line. You cannot see the *center* now. After you practise for a longer time, you can see the center line more clearly.
 	
 #. Footwork
 	
 	| 2 things
-	| Never 八字腳 (i.e. You foot should not be placed as Chinese character 八.) Parallel (a.k.a. 11).
-	| Cross leg (The left foot palm should always follow the right foot palm)
+	| Never 八字腳 (i.e. You foot should not be placed as a Chinese character 八 shape.) Shoud be parallel (a.k.a. 11).
+	| Cross leg (The left foot palm should always follow the right foot palm.)
 	
 #. Holding
 
@@ -87,10 +99,10 @@ First, recall what we have done in the last extra practice and yesterday regular
 	| The last 3 (or 2) fingers are extremely important.
 	| Never hold the shinai as doraemon.
 	
-**Reminder of the last regular practice.**
+**Reminder/Comment of the last regular practice.**
 
 #. Different between the sliding men taught by Ken senpai and the "The *basic* men cut in reference (1)" in last extra practice.
-#. When we hold the shini, the left arm should have a little bit bend.
+#. When we hold the shinai, the left arm should have a little bit bend.
 
 **The followings are the content of this extra practice.**
 
@@ -112,26 +124,25 @@ Reference
 
 3-10-2016 (Mon), 0500pm-0600pm HKUST outside LG 4204, 0600pm-0700pm HKUST LG 4204
 ====================================================================================
-It is the 3th extra practice. It will be hold by Coleman and Anthony. Ryan will also come to help.
+It is the 3th extra practice. It will be hold by Coleman and Anthony.
 
-To begin with, we have announced the details of the 2016 Fall Mass Purchase.
+To begin with, please be noticed that we have announced the details of the 2016 Fall Mass Purchase.
 	| Details: https://goo.gl/forms/kmmQy6VOpfXebn3R2
 	| The mass purchase will be end at 10-10-2016.
 
 We already have two regular practices on 21-9-2016 (Wed) and 28-9-2016 (Wed).
 We also have two extra practices on 26-9-2016 (Mon) and 29-9-2016 (Thur).
-If you have missed our extra practices, you can revisit the material in this webpage.
 
-**Reminder of the last extra practice**
+**Reminder/Comment of the last extra practice**
 
-#. suriashi. We have practised this at the beginning outside the LG 4204.
+#. suri-ashi. We have practised this at the beginning outside the LG 4204.
 
 #. We have practised the 5-stages footwork. The 5th stage is **extremely** important.
 
 #. Please remember that all the participates with different levels will practice the same thing with **slightly** different. 
 	| For example for the hitting men practice, you may find that some seniors will cut from the top of the head while the juniors will cut from the back (You are not allowed to cut it small!).
 	| It is because we need to focus on different things when we are at different stages. More in reference (1).
-	| In addition, people are different. People are good at different things. So please take your own step/progress/speed during the progress. Simply follow others is not good for you.
+	| In addition, people are different. People are good at different things. So please take your own step/progress/speed during the practice. Simply follow others is not good for you.
 
 #. We have practised men strike with kiai. In each round, only one person (i.e. the commander) will shout "1,2,3,...". After the commander has shouted, other shout "men". More in reference (2).
 
@@ -143,24 +154,24 @@ If you have missed our extra practices, you can revisit the material in this web
 	|  1. striking from toma is safe
 	|  2. imagine how a knife is used when you cut bread; you cannot cut by pushing down from the top.
 
-#. Kamae (with or without shinai)(revision) 
+#. Kamae (revision) 
 
-#. suriashi footwork (with or without shinai)(revision)
+#. suriashi footwork (revision)
 	| Ayumi-ashi (normal footwork but sliding)
-	| Okur-ashi (with right foot at front)
-	| Okur-ashi (with left foot at front)
+	| Okuri-ashi (with right foot at front)
+	| Okuri-ashi (with left foot at front)
 
-#. Fumikomi footwork (without shinai)(revision) 
+#. Fumikomi footwork (revision) 
 	| 5-stages
 	
 *Inside LG 4204*
 
-#. suriashi footwork with partner (with shinai)(new)  
+#. suriashi footwork with partner (new)  
 
-#. Fumikomi footwork (with shinai)(revision) 
+#. Fumikomi footwork (revision) 
 	| 5-stages
 	
-#. suriashi+ Fumikomi (with shinai)(revision)
+#. suriashi+ Fumikomi (revision)
 	| suriashi is used to approach your opponent from "toma" (i.e. far distance) to the "issokuittou no maai" (i.e. the attacking distance).
 	| fumikomo is used for hitting from the "issokuittou no maai".
 
@@ -197,9 +208,15 @@ If you have missed our extra practices, you can revisit the material in this web
 	| 5. okuri-ashi
 	| 6. kamae
 	| More in reference (4)
-
 	
-**For fun**
+#. Kihon-Uchi (basic striking or cutting)(new)
+	| A practice: A senior member holds the shinai at the men level as target.
+	| A advanced practice: Two senior members hold the shinai at the men level as targets.
+		| Hit the first men.
+		| use the okuri- to move to the Issoku ittō-no-maai to the second target.
+		| Hit the second men.
+	
+**For fun, you can watch them in this weekend**
 
 #. You can watch the video in Reference (5) to have an overview of kendo.
 	| The video films the HKU kendo club. You may meet them in the coming winter training camp.
@@ -207,8 +224,6 @@ If you have missed our extra practices, you can revisit the material in this web
 #. You can watch the video in Reference (6) to have an overview of kendo.
 	| The video films the Vajra Club. Recall that our HKUST kendo club belonged to a club called Vajra Club (a.k.a. 金剛劍道會/金剛會/金剛館/金剛).
 	| There is a pretty girl as the main character.
-
-
 
 Reference
 ---------------
@@ -234,19 +249,124 @@ Reference
 (6)  
 :ref:`vajra-toLetThemKnow`.
 
-	
-6-10-2016 (Thur), Under Construction
-====================================================================================
+.. note:: The above content has been polished/rearranged so that the materials stated above are guaranteed to have been covered by the senior members. 
+		  I have also added some remarks so that it is easier to follow.
 
-#. Tobikomi men with an opponent holding the shinai as in reference (4) (new)
-	| Tobikomi means jumping/diving to hit the men.
-	| Start at the "issokuittou no maai"
-	| Two version
-	| 1. The 5th stage of the Fumikomi footwork
-	| 2. And easier verion in reference (4)
+6-10-2016 (Thur), 0400pm-0700pm HKUST LG 3002
+====================================================================================
+It is the 4th extra practice. The 0400pm-0600pm session will be hold by Anthony while the 0600om-0700pm session will be hold by Nero.
+Besides, Karen senpai and Alec may go to help.
+
+**Reminder/Comment of the last regular practice (5-10-2016).**
+
+#. I have found that some of the beginners misunderstand the Fumikomi Men taught by Ken senpai.
+	| Fumikomi (Stamp)
+	| The Fumikomi Men taught by Ken senpai is as follows
+	|	1. Raise up the shinai by raising up your body a little bit. 
+	|	"raising up your body" refers to the motion that you want to take something at the shelf in a high position but you cannot reach it. So you raise and extend your body to try to take it.
+	|	2. At this moment, your shinai has been raised and your body has not moved yet.
+	|	3. Launching your left leg to push the right leg while swinging down the shinai.
+	|
+	| Some beginners do an advanced version.
+	|	They do not do the above 1st and 2nd steps. They simply do the 3th step and try to raise the shinai when they launch the left leg.
+	|	It is very difficult. Some of the senior members will try to do this version as a practice. However, beginners should follow the version of Ken senpai instead of the others.
+
+**The followings are the content of this extra practice**
+
+#. Kamae
+
+#. The five stages of footwork as covered in 29-9-2016 (Thur) extra practice.
+
+#. okuri-ashi (送足) with left foot at front
+	| 1 beat version, small and frequently, the normal version
+	| 2 beat version, large and slowly. 1st beat: push from your left leg. 2nd beat: pull from your right leg.
+	|
+	| Move in Reference (1).
 	
+#. okuri-ashi with right foot at front
+	| Same as above
+
+#. Ayumi-ashi (A type of footwork akin to normal walking)
+	| 2 beat version, large and slowly. 
+	| 1st beat: push from your left leg to launch the right leg
+	|
+	| 2nd beat: Pull from the right leg and hence the leg leg cross the right leg and then use the right leg (It is at the behind now.) to push the left leg.
+		
+#. Two people stand in the Issoku ittō-no-maai.
+	| Feel the connection between you and your partner.
+	| When one side moves forward, other moves backward to keep the distance 
+
+#. Swing the shinai with footwork
+	| 1. At the normal kamae position. (left leg follows right leg)
+	| 2. Raise your shinai stationary.
+	| 3. Push from the left leg (the left leg do not move) to move the right leg forward and swing down the shinai.
+	| 4. Use the left leg to draw the right leg while swing up the shinai and place your right leg behind the left leg.
+	| 5. At this moment, the kamae position is reversed. (right leg follows left leg)
+
+#. Fumikomi-ashi practice
+	| More in Reference (2)
+	
+
+**For fun, you can watch them in this weekend**
+
+#. You can watch the video in Reference (3) to feel the excitement of kendo.
+
+#. You can watch the video in Reference (4) to know how other people practise/pursue kendo in other place.
+
 Reference
----------------
-(4)  
+---------------	
+(1)  
+:ref:`footwork-kendoWorld`.
+
+(2)  
 :ref:`footwork-sumi`.
-	| The section "附加", the first video. The woman performs "Tobikomi men".
+	| The section "此段沒上身，美中不足。"
+
+(3)  
+:ref:`promotion-adobe`.
+
+(4)  
+:ref:`promotion-chicago`.
+
+..
+	10-10-2016 (Mon), Under Construction
+	====================================================================================
+
+	#. Tobikomi men with an opponent holding the shinai as in reference (4) (new)
+		| Tobikomi means jumping/diving to hit the men.
+		| Start at the "issokuittou no maai"
+		| Two version
+		| 1. The 5th stage of the Fumikomi footwork
+		| 2. And easier verion in reference (4)
+		
+	#. Explain the mechanism/basic flow of Kihon-Uchi (basic striking or cutting)
+	| To begin with, I will explain some important terms in the footwork part.
+	|	1. Fumikiri: push-off or the leap forward using the left foot when in chudan
+	|	2. Fumikomi: stamp on the floor with the entire sole of the right
+	|	3. Hikitsuke: the act of snapping the rear foot up.
+	|	In conclude, we use fumikiri to drive off from your left foor at the Issoku ittō-no-maai, moving your right foot word as a result of shortening the distance.
+	|	Perform fumikomi and strike at the same time
+	|	Hikitsuke just occur after the strike and stamp (Fumikomi). Without hikitsuke the action `cutting' cannot be completed.
+	|	(c.f. You cannot cut a bread by simply pushing down from the top. You have to slice it
+	|	The remainder is when and how to raise the shinai.
+	|	1. You can raise the shinai stationary.
+	| 	2. You can raise the shinai when you execute the Fumikiri.
+	|	3. You can move your right foot forward using the power of your left foot without lifting your shinai. 
+	|	Then, raise your shinai above your head as you bring your left foot by straightening the right leg (Hikitsuke).
+	|	This paragraph is difficult. I will keep on explaining it in this year.
+	
+	Reference
+	---------------
+	(4)  
+	:ref:`footwork-sumi`.
+		| The section "附加", the first video. The woman performs "Tobikomi men".
+		
+	(3)  
+	:ref:`footwork-sumi`.
+		| The subsection "誠先生の剣道教室 2"
+	
+	(1)
+	:ref:`books-honda`.
+		| Chapter 2 Footwork
+		| Chapter 3 Kukan-datotsu And Kihon-Uchi
+
