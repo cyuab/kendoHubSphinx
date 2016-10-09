@@ -353,6 +353,7 @@ It is the 5th extra practice. It will be hold by Coleman. Anthony will come to h
 We have booked the LG 4204 from 0600pm to 1000pm. We will properly end the practice before 0900pm because we want to have dinner not that late.
 
 **Some news**
+
 2016 Fall mass purchase
 	| https://goo.gl/forms/kmmQy6VOpfXebn3R2
 	| The deadline is 10 Oct 2016
