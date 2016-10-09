@@ -1,7 +1,33 @@
 ﻿******************************************************
 Suburi, Cutting
 ******************************************************
+Video
+========
 
+.. _suburi-hayasuburiKendoWorld:
+
+Tip of the Week - Hayasuburi 
+---------------------------------------
+.. raw:: html
+
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/0uH-sxz3n6E" frameborder="0" allowfullscreen></iframe>
+
+	#. use the wrist to flip the shinai outer
+
+	#. use the feet and hip properly
+
+	#. thrown the hip into in as shown in 1:44
+
+	#. move the hip as much as we can 
+
+	#. your tare throw in front.
+
+	#. Start at the upper swing as shown in 2:40
+
+	#. make each cut count
+
+	#. pause a while
+	
 Text
 ========
 

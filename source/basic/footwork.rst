@@ -2,8 +2,41 @@
 Footwork
 ******************************************************
 
+Text
+========
+次足
+--------------------------------
+	- http://nantanreikan.ca/Glossary/T/tsugi%20ashi/tsugi%20ashi.html
+	
+
+
 Video
 ========
+劍道步法 - 繼足步法Tsuduki-ashi.rmvb
+--------------------------------
+.. raw:: html
+
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/ArsV2fE_tvA" frameborder="0" allowfullscreen></iframe>
+
+.. _footwork-tsugiAshiKendoBasics:
+
+17Kendo Basics II: Tsugi ashi 
+--------------------------------
+.. raw:: html
+
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/sfHX5vIJu5w" frameborder="0" allowfullscreen></iframe>
+	
+#. Left foot move first. In other words, back foot moves first, front foot goes next.
+
+#. Usually, front foot moves first in kendo.
+
+#. Just gain move distance.
+
+#. The extra distance makes a huge difference.
+
+#. It has a disadvantage. When you move your left foot, you may get hit. Because it is difficult to response when the left leg (the power leg) is moving.
+
+#. When the left foot passes the right foot, it becomes, ayumi-ashi.
 
 .. _footwork-kendoWorld:
 
@@ -14,7 +47,7 @@ Tip of the Week - Fumikomi
 
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/oSp56_K1q7Y" frameborder="0" allowfullscreen></iframe>
 	
-#. 'fumikomi' = 'stomp strike'.
+#. 'fumikomi' = 'stamp strike'.
 
 #. Should not lift the right leg too high
 
@@ -144,6 +177,20 @@ For the third video, the left leg of this child seems not that straight.
 
 	<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F430387213774733%2Fvideos%2F836835766463207%2F&show_text=0&width=400" width="400" height="700" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
+**stage 1**
+
+#. Left leg stand still while using left leg as the support to move the right leg
+
+#. Do not move the upper body
+
+**stage 2**
+#. When you move the right leg forward, swing up your hands at the same time
+
+**stage 3**
+
+#. After you execute the stage 2, your hands are over the head with the right foot is moved forward as in 0:21.
+
+#. Push from the left leg, do fumikomi and swing down the shinai.
 
 
 Reference

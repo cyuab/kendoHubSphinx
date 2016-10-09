@@ -1,7 +1,7 @@
 ﻿******************************************************
 HKUST Kendo Club Extra Practice Schedule 2016 Fall
 ******************************************************
-Last updated: 6-10-2016
+Last updated: 9-10-2016
 Maintained by; Coleman YU
 
 26-9-2016 (Mon), 0600pm-0800pm HKUST LG 4204
@@ -249,15 +249,14 @@ Reference
 (6)  
 :ref:`vajra-toLetThemKnow`.
 
-.. note:: The above content has been polished/rearranged so that the materials stated above are guaranteed to have been covered by the senior members. 
-		  I have also added some remarks so that it is easier to follow.
+
 
 6-10-2016 (Thur), 0400pm-0700pm HKUST LG 3002
 ====================================================================================
-It is the 4th extra practice. The 0400pm-0600pm session will be hold by Anthony while the 0600om-0700pm session will be hold by Nero.
-Besides, Karen senpai and Alec may go to help.
+It is the 4th extra practice. The 0400pm-0600pm session will be hold by Anthony while the 0600pm-0700pm session will be hold by Nero.
+Besides, Karen senpai , Zero and Alec may go to help.
 
-**Reminder/Comment of the last regular practice (5-10-2016).**
+**Reminder/Comment of the last regular practice (Wed)(5-10-2016).**
 
 #. I have found that some of the beginners misunderstand the Fumikomi Men taught by Ken senpai.
 	| Fumikomi (Stamp)
@@ -280,8 +279,7 @@ Besides, Karen senpai and Alec may go to help.
 #. okuri-ashi (送足) with left foot at front
 	| 1 beat version, small and frequently, the normal version
 	| 2 beat version, large and slowly. 1st beat: push from your left leg. 2nd beat: pull from your right leg.
-	|
-	| Move in Reference (1).
+	
 	
 #. okuri-ashi with right foot at front
 	| Same as above
@@ -304,8 +302,23 @@ Besides, Karen senpai and Alec may go to help.
 	| 5. At this moment, the kamae position is reversed. (right leg follows left leg)
 
 #. Fumikomi-ashi practice
+	| Move in Reference (1)
 	| More in Reference (2)
 	
+#. Jumping suburi
+	| Teach by Zero
+	| 1. Normal Kamae (With left leg follows the right leg with normal separation)
+	| 2. Jumping upward while swinging up the shinai
+	| 3. When you fall, swing down the shinai at the men level
+	| 4. When you land on the group, your left leg follow the right leg and the separation between them is large.
+	| 5. This time, jump upward again while you swing up the shinai and move the left leg from backward to forward.
+	| 6. When you fall, swing down the shinai at men level
+	| 7. When you land on the group, your right leg follow the left leg and the separation between them is large.
+	| 8. Repeat the procedure for steps 4 to 8 by changing the leading leg using the step 5.
+	
+#. Touching the knee 
+	| Teach by Karen senpai
+	| You can find that using fumikiri and fumikomo make you easier to touch the opponent's knee
 
 **For fun, you can watch them in this weekend**
 
@@ -313,6 +326,8 @@ Besides, Karen senpai and Alec may go to help.
 
 #. You can watch the video in Reference (4) to know how other people practise/pursue kendo in other place.
 
+
+		  
 Reference
 ---------------	
 (1)  
@@ -328,18 +343,61 @@ Reference
 (4)  
 :ref:`promotion-chicago`.
 
-..
-	10-10-2016 (Mon), Under Construction
-	====================================================================================
+.. note:: The above content has been polished/rearranged so that the materials stated above are guaranteed to have been covered by the senior members. 
+		  I have also added some remarks so that it is easier to follow.
+		  
 
-	#. Tobikomi men with an opponent holding the shinai as in reference (4) (new)
-		| Tobikomi means jumping/diving to hit the men.
-		| Start at the "issokuittou no maai"
-		| Two version
-		| 1. The 5th stage of the Fumikomi footwork
-		| 2. And easier verion in reference (4)
-		
-	#. Explain the mechanism/basic flow of Kihon-Uchi (basic striking or cutting)
+10-10-2016 (Mon), 0400pm-0900pm HKUST LG 4204
+====================================================================================
+It is the 5th extra practice. It will be hold by Coleman. Anthony will come to help.
+We have booked the LG 4204 from 0600pm to 1000pm. We will properly end the practice before 0900pm because we want to have dinner not that late.
+
+**Some news**
+2016 Fall mass purchase
+	| https://goo.gl/forms/kmmQy6VOpfXebn3R2
+	| The deadline is 10 Oct 2016
+
+日本武道巡禮2016
+	| 6-11-2016
+	| https://www.facebook.com/events/1795348890751562/
+
+**Reminder/Comment of the last regular practice (Sat)(8-10-2016).**
+
+#. You should observe the difference between the the sliding men taught by Ken senpai and the one taught by me.
+	| Ken senpai version
+	| 	Raise the shinai without moving.
+	|	Suri-ashi for one step and swing down the shinai
+	| My version
+	|	Raise the shinai using the launching of the left leg. We push the right leg at the same time.
+	|	Swing down the shnai using the pulling from the right leg.
+	
+#. Must have a rectangle between two foot palms.
+	| The top right corner is the heel of the right palm.
+	| The bottom left corner is the thumn of the left palm.
+	
+**The followings are the content of this extra practice**
+
+#. Coleman will distribute 10 copies of book stated in Reference (1). 
+	| If you want to have the soft copy, you can find it under the session "Reference".
+	| If there are too many people, I will print more of it and bring it next time.
+	| The book in Reference (1) is a good book. It also serves as a dictionary to understand some terminologies in kendo. 
+	| I do not suggest you to read the whole book at this stage (i.e. learning kendo for 1 month). Just flip it at your leisure time.
+
+	
+#. We will first revise the footwork taught in last extra practice (6-10-2016).
+
+#. tsugi-ashi (繼足)
+	| Advance footwork
+	| More in reference (2)
+	
+#. hiraki-ashi (開足)
+	| Advance footwork
+	
+#. Stationary Men
+	
+#. Stationary Kote
+
+#. Explain the mechanism/basic flow of Kihon-Uchi (basic striking or cutting)
 	| To begin with, I will explain some important terms in the footwork part.
 	|	1. Fumikiri: push-off or the leap forward using the left foot when in chudan
 	|	2. Fumikomi: stamp on the floor with the entire sole of the right
@@ -353,20 +411,61 @@ Reference
 	| 	2. You can raise the shinai when you execute the Fumikiri.
 	|	3. You can move your right foot forward using the power of your left foot without lifting your shinai. 
 	|	Then, raise your shinai above your head as you bring your left foot by straightening the right leg (Hikitsuke).
-	|	This paragraph is difficult. I will keep on explaining it in this year.
+	| Reference (3)
 	
-	Reference
-	---------------
-	(4)  
-	:ref:`footwork-sumi`.
-		| The section "附加", the first video. The woman performs "Tobikomi men".
+#. Tobikomi men (We call Men-Uchi in our club) with an opponent holding the shinai
+	| Do not use too much force.
+	| The partner can suddenly remove the target to see that whether the attack side uses too much force.
+	| Tobikomi means jumping/diving to hit the men.
+	| Start at the "issokuittou no maai"
+	| Two version
+	| 1. The 5th stage of the Fumikomi footwork and then suri-ashi
+	| 2. And different version in reference (4) and reference (5)
+	
+	
+#. Tobikomi kote (We call Kote-Uchi in our club)
+	| Do not use too much force.
+
+#. Consecutive kote men strike with fumikomi footwork
+
+#. Hayasuburi
+	| More in Reference (6)
+	
+
+
+
+Reference
+---------------	
+(1)  
+:ref:`books-beginnersGuide`.
+
+(2)
+:ref:`footwork-tsugiAshiKendoBasics`.
+
+(3)
+:ref:`books-honda`.
+	| Chapter 2 Footwork
+	| Chapter 3 Kukan-datotsu And Kihon-Uchi
 		
-	(3)  
-	:ref:`footwork-sumi`.
-		| The subsection "誠先生の剣道教室 2"
+(4)  
+:ref:`footwork-sumi`.
+	| The section "誠先生の剣道教室 1"
 	
-	(1)
-	:ref:`books-honda`.
-		| Chapter 2 Footwork
-		| Chapter 3 Kukan-datotsu And Kihon-Uchi
+(5)  
+:ref:`footwork-sumi`.
+	| The section "誠先生の剣道教室 2"
+
+(6)  
+:ref:`suburi-hayasuburiKendoWorld`.
+
+
+..
+	shinai over hand
+	newspaper
+
+	
+	
+
+
+
 
