@@ -1,7 +1,7 @@
 ﻿******************************************************
 HKUST Kendo Club Extra Practice Schedule 2016 Fall
 ******************************************************
-Last updated: 10-10-2016
+Last updated: 11-10-2016
 Maintained by; Coleman YU
 
 26-9-2016 (Mon), 0600pm-0800pm HKUST LG 4204
@@ -343,13 +343,11 @@ Reference
 (4)  
 :ref:`promotion-chicago`.
 
-.. note:: The above content has been polished/rearranged so that the materials stated above are guaranteed to have been covered by the senior members. 
-		  I have also added some remarks so that it is easier to follow.
-		  
+
 
 10-10-2016 (Mon), 0600pm-0900pm HKUST LG 4204
 ====================================================================================
-It is the 5th extra practice. It will be hold by Coleman. Anthony will come to help.
+It is the 5th extra practice. It will be hold by Coleman. Anthony, Star and Gilbert will come to help.
 We have booked the LG 4204 from 0600pm to 1000pm. We will properly end the practice before 0900pm because we want to have dinner not that late.
 
 **Some news**
@@ -374,7 +372,7 @@ We have booked the LG 4204 from 0600pm to 1000pm. We will properly end the pract
 	
 #. Must have a rectangle between two foot palms.
 	| The top right corner is the heel of the right palm.
-	| The bottom left corner is the thumn of the left palm.
+	| The bottom left corner is the thumb of the left palm.
 	
 **The followings are the content of this extra practice**
 
@@ -384,20 +382,18 @@ We have booked the LG 4204 from 0600pm to 1000pm. We will properly end the pract
 	| The book in Reference (1) is a good book. It also serves as a dictionary to understand some terminologies in kendo. 
 	| I do not suggest you to read the whole book at this stage (i.e. learning kendo for 1 month). Just flip it at your leisure time.
 
+.. raw:: html
+
+    <font color="red">(I have distributed 8 copies today. Star has also taken one.)</font>
+
 	
 #. We will first revise the footwork taught in last extra practice (6-10-2016).
+	| okuri-ashi (送足) with left foot at front
+	| okuri-ashi with right foot at front
+	| Swing the shinai with footwork
 
-#. tsugi-ashi (繼足)
-	| Advance footwork
-	| More in reference (2)
+#. Frog jump
 	
-#. hiraki-ashi (開足)
-	| Advance footwork
-	
-#. Stationary Men
-	
-#. Stationary Kote
-
 #. Explain the mechanism/basic flow of Kihon-Uchi (basic striking or cutting)
 	| To begin with, I will explain some important terms in the footwork part.
 	|	1. Fumikiri: push-off or the leap forward using the left foot when in chudan
@@ -412,7 +408,7 @@ We have booked the LG 4204 from 0600pm to 1000pm. We will properly end the pract
 	| 	2. You can raise the shinai when you execute the Fumikiri.
 	|	3. You can move your right foot forward using the power of your left foot without lifting your shinai. 
 	|	Then, raise your shinai above your head as you bring your left foot by straightening the right leg (Hikitsuke).
-	| Reference (3)
+	| Reference (2)
 	
 #. Tobikomi men (We call Men-Uchi in our club) with an opponent holding the shinai
 	| Do not use too much force.
@@ -421,52 +417,81 @@ We have booked the LG 4204 from 0600pm to 1000pm. We will properly end the pract
 	| Start at the "issokuittou no maai"
 	| Two version
 	| 1. The 5th stage of the Fumikomi footwork and then suri-ashi
-	| 2. And different version in reference (4) and reference (5)
+	| 2. And different version in reference (3) and reference (4)
 	
 	
-#. Tobikomi kote (We call Kote-Uchi in our club)
-	| Do not use too much force.
+#. Stationary Men
+	| Gilbert: The cutting of the freshmen is not good.
 
-#. Consecutive kote men strike with fumikomi footwork
+#. Use the forearm to measure the holding position
+	| Taught by Gilbert
+	| You can also read it in p.14 in reference (1)
 
-#. Hayasuburi
-	| More in Reference (6)
-	
+#. Forward Men and backward Men	
+	| Star: The motodachi move first, the attack side then follow
+
+#. Sliding men with partner, no blocking
+	| Ken senpai version
+	|	1. Raise the shinai stationary
+	|	2. Push from left leg and swing down the shinai
+	|	3. Then pull the left leg by right leg
+	| Coleman version
+	|	1. Push from the left leg and raise the shinai at the same time.
+	|	2. Pull the left leg from the right leg and swing down the shinai
+	| Star: an mixture of the above two.
+	|	1. Push from the left leg and raise the shinai at the same time.
+	|	2. The pushing is not stop yet and hence your right leg is still moving.
+	|	3. Swing down when your right leg stops moving forward
+	|	4. Then pull the left leg by right leg
 
 
-
+		  
 Reference
 ---------------	
 (1)  
 :ref:`books-beginnersGuide`.
 
 (2)
-:ref:`footwork-tsugiAshiKendoBasics`.
-
-(3)
 :ref:`books-honda`.
 	| Chapter 2 Footwork
 	| Chapter 3 Kukan-datotsu And Kihon-Uchi
 		
-(4)  
+(3)  
 :ref:`footwork-sumi`.
 	| The section "誠先生の剣道教室 1"
 	
-(5)  
+(4)  
 :ref:`footwork-sumi`.
 	| The section "誠先生の剣道教室 2"
 
-(6)  
-:ref:`suburi-hayasuburiKendoWorld`.
-
-
+.. note:: The above content has been polished/rearranged so that the materials stated above are guaranteed to have been covered by the senior members. 
+		  I have also added some remarks so that it is easier to follow.
+		  
 ..
 	shinai over hand
 	newspaper
 	my opinion of why central hand, to eliminate variable
 
+	#. tsugi-ashi (繼足)
+	| Advance footwork
+	| More in reference (2)
 	
+	#. hiraki-ashi (開足)
+	| Advance footwork
 	
+	(2)
+	:ref:`footwork-tsugiAshiKendoBasics`.
+	
+	(5)  
+	:ref:`suburi-hayasuburiKendoWorld`.
+
+	#. Hayasuburi
+	| More in Reference (6)
+	
+	#. Tobikomi kote (We call Kote-Uchi in our club)
+	| Do not use too much force.
+
+	#. Consecutive kote men strike with fumikomi footwork
 
 
 
