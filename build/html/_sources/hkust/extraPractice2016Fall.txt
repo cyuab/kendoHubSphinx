@@ -1,7 +1,7 @@
 ﻿******************************************************
 HKUST Kendo Club Extra Practice Schedule 2016 Fall
 ******************************************************
-Last updated: 9-10-2016
+Last updated: 10-10-2016
 Maintained by; Coleman YU
 
 26-9-2016 (Mon), 0600pm-0800pm HKUST LG 4204
@@ -347,7 +347,7 @@ Reference
 		  I have also added some remarks so that it is easier to follow.
 		  
 
-10-10-2016 (Mon), 0400pm-0900pm HKUST LG 4204
+10-10-2016 (Mon), 0600pm-0900pm HKUST LG 4204
 ====================================================================================
 It is the 5th extra practice. It will be hold by Coleman. Anthony will come to help.
 We have booked the LG 4204 from 0600pm to 1000pm. We will properly end the practice before 0900pm because we want to have dinner not that late.
@@ -406,7 +406,7 @@ We have booked the LG 4204 from 0600pm to 1000pm. We will properly end the pract
 	|	In conclude, we use fumikiri to drive off from your left foor at the Issoku ittō-no-maai, moving your right foot word as a result of shortening the distance.
 	|	Perform fumikomi and strike at the same time
 	|	Hikitsuke just occur after the strike and stamp (Fumikomi). Without hikitsuke the action `cutting' cannot be completed.
-	|	(c.f. You cannot cut a bread by simply pushing down from the top. You have to slice it
+	|	(c.f. You cannot cut a bread by simply pushing down from the top. You have to slice it)
 	|	The remainder is when and how to raise the shinai.
 	|	1. You can raise the shinai stationary.
 	| 	2. You can raise the shinai when you execute the Fumikiri.
@@ -463,6 +463,7 @@ Reference
 ..
 	shinai over hand
 	newspaper
+	my opinion of why central hand, to eliminate variable
 
 	
 	
