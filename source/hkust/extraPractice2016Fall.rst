@@ -1,7 +1,7 @@
 ﻿******************************************************
 HKUST Kendo Club Extra Practice Schedule 2016 Fall
 ******************************************************
-Last updated: 13-10-2016
+Last updated: 14-10-2016
 Maintained by; Coleman YU
 
 26-9-2016 (Mon), 0600pm-0800pm HKUST LG 4204
@@ -464,9 +464,7 @@ Reference
 :ref:`footwork-sumi`.
 	| The section "誠先生の剣道教室 2"
 
-.. note:: The above content has been polished/rearranged so that the materials stated above are guaranteed to have been covered by the senior members. 
-		  I have also added some remarks so that it is easier to follow.
-	
+
 
 13-10-2016 (Thur), 0500pm-0600pm HKUST LG 3002 0600pm-0700pm HKUST LG 4204
 ====================================================================================
@@ -478,6 +476,12 @@ In the yesterday regular practice, Ken senpai has taught us about sayu men. He h
 Understanding the principles is easy while doing/implement them is difficult.
 So, we need to practice continuously. 
 
+
+.. raw:: html
+
+    <font color="red">(I have distributed 5 copies of books today. Ryan and the new comer, who is Crystal's friend, have also taken one each.)</font>
+
+	
 **The followings are the content of this extra practice**
 
 **At LG 3002**
@@ -493,17 +497,10 @@ So, we need to practice continuously.
 	| hiraki-ashi (開足)
 	| 	Advance footwork
 	| Ayumi-ashi
-	
-#. Swing the shinai with footwork
-	| Ayumi-ashi
-	
+		
 #. Swing the shinai by standing still the left leg and move the right leg	
 	| Reference (4) on 10-10-2016 (Mon) practice
 	
-#. Jumping suburi
-	
-#. Fumikomi footwork
-	| suriashi + Fumikomi
 
 #. Fumikomi footwork with hands
 	| 5-stages
@@ -513,15 +510,11 @@ So, we need to practice continuously.
 
 #. Suburi
 
-#. Jumping suburi
-
 #. Stationary men cut
 	| Both hands
 	| Single hands
 	
 #. Stationary sayu men
-
-#. Suburi Suburi Men
 
 #. Sliding Men without receiver
 	| Two versions
@@ -531,19 +524,17 @@ So, we need to practice continuously.
 
 #. Tobikomi men
 
-#. Forward and backward sayu men
-
 #. For the seniors, we will practice with bogu. 
-	| kirikaeshi
-	| kihon geiko
-	| uchikomi geiko + kirikaeshi
-	| kakari geiko (both side as kakarite versions)
 	| jigeiko
 
 Reference
 ---------------	
 (1)
 :ref:`footwork-tsugiAshiKendoBasics`.
+
+.. note:: The above content has been polished/rearranged so that the materials stated above are guaranteed to have been covered by the senior members. 
+		  I have also added some remarks so that it is easier to follow.
+	
 
 ..
 	shinai over hand
