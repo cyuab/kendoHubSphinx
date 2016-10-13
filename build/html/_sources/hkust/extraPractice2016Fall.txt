@@ -1,7 +1,7 @@
 ﻿******************************************************
 HKUST Kendo Club Extra Practice Schedule 2016 Fall
 ******************************************************
-Last updated: 11-10-2016
+Last updated: 13-10-2016
 Maintained by; Coleman YU
 
 26-9-2016 (Mon), 0600pm-0800pm HKUST LG 4204
@@ -466,21 +466,97 @@ Reference
 
 .. note:: The above content has been polished/rearranged so that the materials stated above are guaranteed to have been covered by the senior members. 
 		  I have also added some remarks so that it is easier to follow.
-		  
+	
+
+13-10-2016 (Thur), 0500pm-0600pm HKUST LG 3002 0600pm-0700pm HKUST LG 4204
+====================================================================================
+It is the 6th extra practice. It will be hold by Coleman. Anthony, Ryan and Ali will come to help.
+
+We have already learnt many basic skills in kendo. You should have a brief idea of the mechanism of the actions.
+In the yesterday regular practice, Ken senpai has taught us about sayu men. He has also illustrated how to do the forward and backward sayu men.
+
+Understanding the principles is easy while doing/implement them is difficult.
+So, we need to practice continuously. 
+
+**The followings are the content of this extra practice**
+
+**At LG 3002**
+
+#. Footwork (Ashi-sabaki)
+	| suriashi footwork
+	| 	1. Okuri-ashi (with right foot at front)
+	| 	2. Okuri-ashi (with left foot at front)
+	|	3. Eight Direction
+	| tsugi-ashi (繼足)
+	| 	Advance footwork
+	| 	More in reference (1)
+	| hiraki-ashi (開足)
+	| 	Advance footwork
+	| Ayumi-ashi
+	
+#. Swing the shinai with footwork
+	| Ayumi-ashi
+	
+#. Swing the shinai by standing still the left leg and move the right leg	
+	| Reference (4) on 10-10-2016 (Mon) practice
+	
+#. Jumping suburi
+	
+#. Fumikomi footwork
+	| suriashi + Fumikomi
+
+#. Fumikomi footwork with hands
+	| 5-stages
+	
+
+**At LG 4204**
+
+#. Suburi
+
+#. Jumping suburi
+
+#. Stationary men cut
+	| Both hands
+	| Single hands
+	
+#. Stationary sayu men
+
+#. Suburi Suburi Men
+
+#. Sliding Men without receiver
+	| Two versions
+
+#. Forward and backward men
+	| The senior will practice the different version.
+
+#. Tobikomi men
+
+#. Forward and backward sayu men
+
+#. For the seniors, we will practice with bogu. 
+	| kirikaeshi
+	| kihon geiko
+	| uchikomi geiko + kirikaeshi
+	| kakari geiko (both side as kakarite versions)
+	| jigeiko
+
+Reference
+---------------	
+(1)
+:ref:`footwork-tsugiAshiKendoBasics`.
+
 ..
 	shinai over hand
 	newspaper
 	my opinion of why central hand, to eliminate variable
 
-	#. tsugi-ashi (繼足)
+	#. 
 	| Advance footwork
 	| More in reference (2)
 	
 	#. hiraki-ashi (開足)
 	| Advance footwork
-	
-	(2)
-	:ref:`footwork-tsugiAshiKendoBasics`.
+
 	
 	(5)  
 	:ref:`suburi-hayasuburiKendoWorld`.
@@ -488,10 +564,7 @@ Reference
 	#. Hayasuburi
 	| More in Reference (6)
 	
-	#. Tobikomi kote (We call Kote-Uchi in our club)
-	| Do not use too much force.
 
-	#. Consecutive kote men strike with fumikomi footwork
 
 
 
