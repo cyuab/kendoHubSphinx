@@ -1,7 +1,7 @@
 ﻿******************************************************
 HKUST Kendo Club Extra Practice Schedule 2016 Fall
 ******************************************************
-Last updated: 14-10-2016
+Last updated: 17-10-2016
 Maintained by; Coleman YU
 
 26-9-2016 (Mon), 0600pm-0800pm HKUST LG 4204
@@ -481,6 +481,9 @@ So, we need to practice continuously.
 
     <font color="red">(I have distributed 5 copies of books today. Ryan and the new comer, who is Crystal's friend, have also taken one each.)</font>
 
+.. raw:: html
+
+    <font color="red">(We have collected the deposit of buying name tag for some beginners.)</font>
 	
 **The followings are the content of this extra practice**
 
@@ -501,7 +504,6 @@ So, we need to practice continuously.
 #. Swing the shinai by standing still the left leg and move the right leg	
 	| Reference (4) on 10-10-2016 (Mon) practice
 	
-
 #. Fumikomi footwork with hands
 	| 5-stages
 	
@@ -536,6 +538,67 @@ Reference
 		  I have also added some remarks so that it is easier to follow.
 	
 
+17-10-2016 (Thur), 0500pm-0600pm HKUST LG 1 Lobby (i.e. outside the badminton courts) 0600pm-0700pm HKUST LG 4204
+====================================================================================
+It is the 7th extra practice. It will be hold by Coleman and Anthony.
+We have booked the LG 1 Lobby today. If the floor of LG 1 Lobby is not as good as that outside of LG 4204, we will go to the outside of LG 4204.
+
+**The followings are the content of this extra practice**
+
+**Outside LG 4204**
+
+#. Footwork (Ashi-sabaki)
+	| suriashi footwork
+	| 	1. Okuri-ashi (with right foot at front)
+	|		a. forward
+	|		b. backward
+	|		c. lateral
+	| 		d. 8 directions
+	| 	2. Okuri-ashi (with left foot at front)
+	| tsugi-ashi (繼足)
+	| 	Advance footwork
+	| 	More in reference (1)
+	| hiraki-ashi (開足)
+	| 	Advance footwork
+		
+#. Swing the shinai by standing still the left leg and move the right leg	
+	| Reference (4) on 10-10-2016 (Mon) practice
+
+#. Swing the shinai by moving the left leg and move the right leg alternatively
+
+#. Practice in Reference (3) on on 10-10-2016 (Mon) practice
+	| i.e. moving right leg while raising up the shinai
+
+#. Fumikomi footwork with hands
+	| 5-stages
+	
+
+**At LG 4204**
+
+#. Suburi
+
+#. Stationary men cut
+	| Both hands
+	| Single hands
+	
+#. Stationary sayu men
+
+#. Stationary kote cut
+
+#. Suburi Suburi Men
+
+#. Sliding Men without receiver
+	| Two versions
+
+#. Forward and backward men
+	| The senior will practice the different version.
+	
+#. Rightward and leftward men
+
+#. Tobikomi men
+
+#. Tobikomi kote
+
 ..
 	shinai over hand
 	newspaper
@@ -544,11 +607,7 @@ Reference
 	#. 
 	| Advance footwork
 	| More in reference (2)
-	
-	#. hiraki-ashi (開足)
-	| Advance footwork
-
-	
+		
 	(5)  
 	:ref:`suburi-hayasuburiKendoWorld`.
 
