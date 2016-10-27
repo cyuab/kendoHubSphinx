@@ -31,6 +31,7 @@ Basic:
    basic/footwork
    basic/suburi
    basic/distance
+   basic/kirikaeshi
 	
 Shikake:
 

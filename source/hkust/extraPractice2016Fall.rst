@@ -1,8 +1,39 @@
 ﻿******************************************************
 HKUST Kendo Club Extra Practice Schedule 2016 Fall
 ******************************************************
-Last updated: 17-10-2016
+Last updated: 27-10-2016
 Maintained by; Coleman YU
+
+Practice advice from Karen senpai
+================================================================================================================================
+熱身
+原地suburi 20 x 2-3set 
+原地men 20 
+前後men 20 x 2-3set
+(完咗一set可以指出做得唔好地方，eg kiai唔夠，膊頭無放鬆 etc，呢個時候remind新人用劍嘅重量打，唔好自己加臂力)
+
+步法練習
+送足由箭靶去到鏡 (前後左右做幾set) 目標係唔好咁多踏步聲，盡量做到slide呢個動作
+
+竹劍橫放腰後跨步練習 (一步左一步右)
+
+pair up做基本練習 (原地men，前前後後men，左手men，defence個邊垂直把劍，對面打sayomen [上次Ken師兄教打個個]，defence個邊打橫把劍，對面打sayomen)
+
+差唔多身高嘅人pair up，由箭靶去鏡兩邊一齊打sayomen (一個向前一個向後), remind 新人hitting target係對方個頭，把劍stop嘅高度應該係對方個頭咁高先啱
+
+教kirikaeshi defence個邊點block (畫三角形，左右兩邊defence唔好太貼頭，要有足夠空間去擋)
+
+學得ok就俾佢哋試打kirikaeshi，前四後五，做多幾轉都ok
+
+仲有時間就教埋hiyasuburi步法，4拍要清楚，前後步距唔好差太遠。步法ok可以教埋對手點跟節奏郁 (without shinai)，仲跟到先教埋用竹劍打hiyasuburi，向後跳順勢向上舉劍(劍尖唔駛去到好後)，唔好用右手抽劍。向前跳就用返把劍嘅重量打落去。
+
+到你哋上甲，可俾佢哋衝men，之後俾佢哋打sayomen/kirikaeshi 
+
+hope this help
+
+Reference
+------------------
+Nero sent this to me on whatapps on 21-10-2016.
 
 26-9-2016 (Mon), 0600pm-0800pm HKUST LG 4204
 ===============================================
@@ -537,7 +568,7 @@ Reference
 
 
 17-10-2016 (Thur), 0500pm-0600pm HKUST LG 1 Lobby (i.e. outside the badminton courts) 0600pm-0700pm HKUST LG 4204
-====================================================================================
+================================================================================================================================
 It is the 7th extra practice. It will be hold by Coleman and Anthony.
 We have booked the LG 1 Lobby today. If the floor of LG 1 Lobby is not as good as that outside of LG 4204, we will go to the outside of LG 4204.
 
@@ -579,8 +610,35 @@ We have booked the LG 1 Lobby today. If the floor of LG 1 Lobby is not as good a
 	
 #. Tobikomi men
 
+20-10-2016 (Thur), 0500pm-0700pm HKUST LG 3002
+================================================================================================================================
+It is the 8th extra practice. It will be hold by Anthony and Nero.
+
+#. Many Footwork
+
+
+
+24-10-2016 (Mon), 0500pm-0600pm HKUST outside LG 4204, 0600pm-0700pm HKUST LG 4204
+================================================================================================================================
+It is the 9th extra practice. It will be hold by Coleman.
+
+#. Three methods of hitting men.
+	| a. Draw the left leg and raise the shinai at the same time.
+	| b. Push the right leg a little bit and raise the shinai at the same time.
+	| c. Approaching step (Launching the right leg by pushing from the left leg), tsugi-ashi (pulling the left leg by the right leg) and raise the shinai at the same time.
+
+
+27-10-2016 (Thur), 0500pm-0700pm HKUST LG 3002 0700pm-0800pm somewhere
+================================================================================================================================
+It is the 10th extra practice. It will be hold by Anthony. Anthony will arrive after 0600pm.
+
+#. Many Footwork
+
+
 .. note:: The above content has been polished/rearranged so that the materials stated above are guaranteed to have been covered by the senior members. 
 		  I have also added some remarks so that it is easier to follow.
+		  
+		  
 	
 ..
 	shinai over hand

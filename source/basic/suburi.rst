@@ -107,3 +107,6 @@ Timing of one
 
 #. Nothing new really. Only hard to master. And then practice is often a little different form theory.
 
+推舉竹刀如舉杯飲水
+-----------------------
+	- https://www.facebook.com/180329075320617/photos/a.180727351947456.39311.180329075320617/1269813319705515/?type=3&theater
