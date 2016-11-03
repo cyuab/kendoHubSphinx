@@ -1,7 +1,7 @@
 ﻿******************************************************
 HKUST Kendo Club Extra Practice Schedule 2016 Fall
 ******************************************************
-Last updated: 27-10-2016
+Last updated: 04-11-2016
 Maintained by; Coleman YU
 
 Practice advice from Karen senpai
@@ -633,6 +633,51 @@ It is the 9th extra practice. It will be hold by Coleman.
 It is the 10th extra practice. It will be hold by Anthony. Anthony will arrive after 0600pm.
 
 #. Many Footwork
+
+31-10-2016 (Mon), 0600pm-0800pm HKUST LG 4204
+================================================================================================================================
+It is the 11th extra practice. It will be hold by Anthony. Star and Gilbert will come to help.
+
+
+
+03-11-2016 (Thur), 0500pm-0700pm HKUST LG 3002
+================================================================================================================================
+It is the 12th extra practice. It will be hold by Coleman and Anthony. Star will come to help.
+
+Today, we have 2 new comers. They are Kristy and Tracy.
+
+Practice For the Girls
+---------------------------
+#. How to hold the shinai. For details, please read the notes for practice "29-9-2016".
+
+#. How to stand and do the kamae. For details, please read the notes for practice "26-9-2016".
+
+#. The three distances. For details, please read the notes for practice "26-9-2016".
+
+#. The reasons why we need to "move and cut" instead of "stand still and cut". For details, please read the notes for practice "03-10-2016"
+	| 1. Cutting bread
+	| 2. Occupy the center line by sliding off the opponent's shinai
+	| 3. Start the attack at the safe distance
+	
+#. Suburi
+
+#. Men cut
+
+#. (Pushing the left leg) and (stamping the right leg with downward swing).
+
+
+Practice For the Boys
+---------------------------
+#. Kirikaeshi
+
+Practice Together
+---------------------------
+#. (Pushing the left leg) and (stamping the right leg with downward swing).
+
+#.  Sliding men with three beats.
+	| 1. (Pushing from your left leg) and (launching the right leg in sliding manner with upward swing such that the shinai touches the hip)
+	| 2. Use the right leg to draw the left leg in sliding manner with downward swing (i.e. cutting).
+	| 3. Stand back to restore the original position.
 
 
 .. note:: The above content has been polished/rearranged so that the materials stated above are guaranteed to have been covered by the senior members. 
